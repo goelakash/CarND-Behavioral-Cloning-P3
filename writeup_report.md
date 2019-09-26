@@ -28,6 +28,7 @@ My project includes the following files:
 * `model.h5` containing the final trained+tuned convolution neural network
 * `model_6_1569439496.h5` that is the intermediate trained model 
 * `writeup_report.md` summarizing the results
+* `collected_data` and `data` (sample data) used for tuning and training the model respectively.
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
